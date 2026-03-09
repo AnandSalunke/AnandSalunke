@@ -1,0 +1,70 @@
+body
+{
+font-family: Arial;
+margin:0;
+background:linear-gradient(to right,#ffecd2,#fcb69f);
+}
+
+header
+{
+background:#ff5733;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+nav a
+{
+margin:10px;
+color:white;
+text-decoration:none;
+font-weight:bold;
+}
+
+section
+{
+padding:30px;
+background:white;
+margin:20px;
+border-radius:10px;
+}
+
+.hero
+{
+text-align:center;
+padding:80px;
+background:linear-gradient(#ff9966,#ff5e62);
+color:white;
+}
+
+.btn
+{
+background:#2ecc71;
+padding:10px 20px;
+color:white;
+text-decoration:none;
+border-radius:5px;
+}
+
+footer
+{
+background:#333;
+color:white;
+text-align:center;
+padding:15px;
+}
+
+form input,textarea
+{
+width:100%;
+padding:10px;
+margin:10px 0;
+}
+
+button
+{
+background:#ff5733;
+color:white;
+padding:10px 20px;
+border:none;
+}
